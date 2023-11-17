@@ -15,6 +15,10 @@ git config --global init.defaultBranch main
 # Configure o .gitignore
 
 git init
+
 git add .
-git commit -m 'Mensagem'
+git commit -m 'Mensagem'   AQUI É A MENSAGEM DA ALTERAÇÃO (DESCRIÇÃO)
+git push    PARA COMITAR
+
+
 git remote add origin git@github.com:matheus-goularte/Agenda---Django.git
