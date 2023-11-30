@@ -1,4 +1,6 @@
 from .contact_views import *
+from .contact_forms import *
+
 
 
 #BASICAMENTE ESTOU FAZENDO O PYTHON ENTENDER QUE A PASTA(MODULO) "Views" é 
